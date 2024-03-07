@@ -6,5 +6,5 @@ Outil pour faire de la 3D
 
 Première étape :
 
-Suivre l'intégralité des tutoriels disponible sur la documentation officielle.
+Suivre l'intégralité des tutoriels disponibles sur la documentation officielle pour s'imprégner l'outil.
 
